@@ -1,0 +1,155 @@
+run:
+Nodes in tree: 100
+Inorder traversal: 
+
+Ace Ventura: When Nature Calls 
+Amateur 
+Angels and Insects 
+Anne Frank Remembered 
+Apollo 13 
+Assassins 
+Babe 
+Bad Boys 
+Balto 
+Batman Forever 
+Beautiful Girls 
+Bed of Roses 
+Before and After 
+Beyond Rangoon 
+Big Bully 
+Bio-Dome 
+Black Sheep 
+Blue in the Face 
+Boomerang 
+Bottle Rocket 
+Braveheart 
+Broken Arrow 
+Canadian Bacon 
+Casino 
+Casper 
+Catwalk 
+City Hall 
+Clockers 
+Clueless 
+Copycat 
+Cutthroat Island 
+Dangerous Minds 
+Dead Man Walking 
+Dead Presidents 
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood 
+Down Periscope 
+Dracula: Dead and Loving It 
+Dunston Checks In 
+Eye for an Eye 
+Fair Game 
+Father of the Bride Part II 
+Flirting With Disaster 
+Four Rooms 
+Friday 
+From Dusk Till Dawn 
+Georgia 
+Get Shorty 
+GoldenEye 
+Grumpier Old Men 
+Happy Gilmore 
+Heat 
+Heidi Fleiss: Hollywood Madam 
+Home for the Holidays 
+How to Make an American Quilt 
+If Lucy Fell 
+In the Bleak Midwinter 
+It Takes Two 
+Jade 
+Jumanji 
+Jupiter's Wife 
+Kicking and Screaming 
+Lamerica 
+Lawnmower Man 2: Beyond Cyberspace 
+Leaving Las Vegas 
+Man of the Year 
+Mary Reilly 
+Mighty Aphrodite 
+Money Train 
+Mortal Kombat 
+Mr. Holland's Opus 
+Mr. Wrong 
+Muppet Treasure Island 
+Nick of Time 
+Nico Icon 
+Nixon 
+Now and Then 
+Once Upon a Time... When We Were Colored 
+Othello 
+Persuasion 
+Pie in the Sky 
+Pocahontas 
+Powder 
+Restoration 
+Richard III 
+Rob Roy 
+Sabrina 
+Screamers 
+Sense and Sensibility 
+Sudden Death 
+Taxi Driver 
+Things to Do in Denver When You're Dead 
+To Die For 
+Tom and Huck 
+Toy Story 
+Two if by Sea 
+Unforgettable 
+Up Close and Personal 
+Vampire in Brooklyn 
+Waiting to Exhale 
+White Squall 
+
+-------------------------------
+Do you want to check for movie sublists? Type yes to do so. Typing anything else will end the program.
+yes
+Enter a number between 0 and 100
+91
+Enter another number above 91 but below that of 100
+95
+These are your movies: 
+[To Die For , Tom and Huck , Toy Story , Two if by Sea ]
+
+Do you want to check for movie sublists? Type yes to do so. Typing anything else will end the program.
+yes
+Enter a number between 0 and 100
+82
+Enter another number above 82 but below that of 100
+89
+These are your movies: 
+[Restoration , Richard III , Rob Roy , Sabrina , Screamers , Sense and Sensibility , Sudden Death ]
+
+Do you want to check for movie sublists? Type yes to do so. Typing anything else will end the program.
+yes
+Enter a number between 0 and 100
+4
+Enter another number above 4 but below that of 100
+10
+These are your movies: 
+[Apollo 13 , Assassins , Babe , Bad Boys , Balto , Batman Forever ]
+
+Do you want to check for movie sublists? Type yes to do so. Typing anything else will end the program.
+yes
+Enter a number between 0 and 100
+50
+Enter another number above 50 but below that of 100
+60
+These are your movies: 
+[Heat , Heidi Fleiss: Hollywood Madam , Home for the Holidays , How to Make an American Quilt , If Lucy Fell , In the Bleak Midwinter , It Takes Two , Jade , Jumanji , Jupiter's Wife ]
+
+Do you want to check for movie sublists? Type yes to do so. Typing anything else will end the program.
+yes
+Enter a number between 0 and 100
+31
+Enter another number above 31 but below that of 100
+43
+These are your movies: 
+[Dangerous Minds , Dead Man Walking , Dead Presidents , Don't Be a Menace to South Central While Drinking Your Juice in the Hood , Down Periscope , Dracula: Dead and Loving It , Dunston Checks In , Eye for an Eye , Fair Game , Father of the Bride Part II , Flirting With Disaster , Four Rooms ]
+
+Do you want to check for movie sublists? Type yes to do so. Typing anything else will end the program.
+no
+Number of sublists done: 5
+BUILD SUCCESSFUL (total time: 34 seconds)
