@@ -1,3 +1,5 @@
+The output below was done on the Netbeans IDE. 
+
 run:
 Nodes in tree: 100
 Inorder traversal: 
