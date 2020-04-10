@@ -8,3 +8,8 @@ MovieNode.java - contains details of a single movie node.
 MovieBST.java - contains the binary search tree and implements MovieNode.
 MovieTitles.java - contains the main method by implementing the previous two classes.
 HW3Output.txt - a running of MovieTitles.java done on Netbeans
+
+Homework 4 details:
+Movie.java - contains info about a single movie object.
+MovieGenres.java - contains the method by implementing the Movie class.
+HW4Output.txt - a running of MovieGenres.java done on Netbeans
