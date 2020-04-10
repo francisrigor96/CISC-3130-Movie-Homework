@@ -13,3 +13,4 @@ Homework 4 details:
 Movie.java - contains info about a single movie object.
 MovieGenres.java - contains the method by implementing the Movie class.
 HW4Output.txt - a running of MovieGenres.java done on Netbeans
+movieinfo.csv - the file used for this homework
